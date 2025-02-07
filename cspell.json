@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "words": ["pkgroll"],
+  "ignorePaths": ["node_modules", "src/**/*.test.ts"]
+}

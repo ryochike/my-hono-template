@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [],
+  "javascript.preferences.useAliasesForRenames": false,
+  "editor.codeActionsOnSave": {
+    "source.removeUnusedImports": "explicit",
+    "source.fixAll.sortJSON": "always",
+    "source.fixAll.biome": "always",
+    "source.organizeImports.biome": "explicit",
+    "quickfix.biome": "explicit"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}
